@@ -1,8 +1,6 @@
 <script setup lang="ts">
   useHead({
-    meta: {
-      title: '首页'
-    }
+    title: '首页'
   })
 
   import { useRouter } from 'vue-router'

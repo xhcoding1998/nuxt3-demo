@@ -1,8 +1,6 @@
 <script setup lang="ts">
   useHead({
-    meta: {
-      title: '歌词页'
-    }
+    title: '歌词页'
   })
 
   import { useRouter, useRoute } from 'vue-router'
